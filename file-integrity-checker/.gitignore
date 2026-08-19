@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+file_hashes_baseline.json
+.DS_Store
